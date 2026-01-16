@@ -1,0 +1,7 @@
+{
+  "name": "Global Survey Market",
+  "description": "A comprehensive online survey platform where users can earn rewards for completing daily market research surveys with a secure payment and withdrawal system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
